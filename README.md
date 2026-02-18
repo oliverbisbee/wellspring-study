@@ -101,4 +101,9 @@ Two main datasets were used:
 
 - **Engagement patterns** are influenced by membership duration, program interest, and family responsibilities  
 - **System-level changes** like the new registration system may have subtle effects, but personal and social factors remain key drivers  
-- Insights can inform **retention strategies, outreach, and program design** to support Wellspring members more effectively  
+- Insights can inform **retention strategies, outreach, and program design** to support Wellspring members more effectively
+
+## Notes
+
+**Contributions:** This project was completed as a group. I specifically worked on Research Question 1 (RQ1), including data cleaning, regression analysis, and visualization for that question.
+
